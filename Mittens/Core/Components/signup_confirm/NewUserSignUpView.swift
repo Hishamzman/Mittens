@@ -6,7 +6,9 @@
 //
 
 import SwiftUI
-
+class users {
+    
+}
 struct NewUserSignUpView: View {
     @State var email: String = ""
     @State var Firstname: String = ""
